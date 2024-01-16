@@ -15,7 +15,7 @@ Installation
 To install and run this project, you would need to follow these steps:
 
 1. Clone the repository
-  git clone https://github.com/yourusername/shopping-cart.git
+  git clone https://github.com/shubhambarange/shopping-cart.git
 
 2. Navigate into the project directory
    cd shopping-cart
